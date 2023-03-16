@@ -4,3 +4,4 @@ data/yahoo_answers_csv
 model
 *.zip
 glove.6B.100d.txt
+wandb
